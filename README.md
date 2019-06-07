@@ -4,7 +4,7 @@
 
 <head>
 	<meta charset="UTF-8" />
-	<title>Jamaica Villas by Linda Smith </title>
+	<title>Jamaica Villas by Oshane Edwards </title>
 
 
 	<meta name="description" content="Offers property details, rates, specials and reservation information for villas across the island of Jamaica." />
@@ -345,7 +345,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 		<div id="footer">
 			<a id="link-top" href="#top">Top</a>
-			Last updated March 22, 2018 &bull; Copyright 2018 Jamaica Villas by Linda Smith
+			Last updated March 22, 2018 &bull; Copyright 2018 Jamaica Villas by Oshane Edwards
 		</div><!--/footer-->
 
 	</div><!--/wrap-->
@@ -355,13 +355,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<img src='site/templates/styles/images/jamaica-text.png' alt='Jamaica' />
 		</div>
 		<p>
-		Jamaica Villas by Linda Smith <span>&bull;</span> 
+		Jamaica Villas by Oshane Edwards <span>&bull;</span> 
 		100 Fordham Road, Bldg. C <span>&bull;</span> 
 		Wilmington, MA, 01887 <span>&bull;</span> 
 		Tel 301.229.4300 <span>&bull;</span> 
 		Email <a href='mailto:info@jamaicavillas.com'>info@jamaicavillas.com</a>
 		<br />
-		&copy; 2018 <span>&bull;</span> Jamaica Villas by Linda Smith <span>&bull;</span> 
+		&copy; 2018 <span>&bull;</span> Jamaica Villas by Oshane Edwards <span>&bull;</span> 
 		All Rights Reserved
 		</p>
 	</div>
@@ -395,5 +395,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </body>
 
-<!-- www.jamaicavillas.com/  -->
+<!-- www.jamaicawebsites.com/  -->
 </html>
